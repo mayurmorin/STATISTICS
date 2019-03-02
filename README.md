@@ -1,4 +1,4 @@
-# STATISTICS-1-STATISTICS-2-Assignment_9.11439
+# STATISTICS-BASICS
 
 Assignment Submission for Session STATISTICS-1-STATISTICS-2.
 
